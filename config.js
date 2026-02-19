@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Norbert",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Happy Valentines Day My Hubby",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -30,12 +30,12 @@ const CONFIG = {
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Nextttt ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Will you be my baby forever and ever?", // The big question!
+            yesBtn: "Yes!!",                                             // Text for "Yes" button
+            noBtn: "Nopee"                                                 // Text for "No" button
         }
     },
 
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yay! I'm the luckiest girl in the world! 🎉💝💖💝💓",
+        message: "Now come get your gift, a big warm hug and a huge kiss just for my cutie pie!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
